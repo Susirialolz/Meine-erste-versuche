@@ -1,0 +1,90 @@
+body {
+  background: url("background_1080p.jpg");
+  background-repeat: no-repeat;
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-position: top;
+  height: 100vh;
+  background-size: cover;
+}
+
+/* Floating-Menü-Stile */
+#floating-menu {
+  background-color: #00000044;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+  border-bottom: 2px solid #272727;
+ 
+}
+
+#floating-menu ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-around;
+}
+
+#floating-menu li {
+  display: inline;
+}
+
+#floating-menu a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+#floating-menu a:hover {
+  background-color: #000000;
+  font-weight: 600;
+  font-size: .7em;
+  transition: all .25s ease-in-out;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.countdown-container {
+  display: flex;
+  flex-direction: column;
+  justify-content:center;
+  
+  align-items: center;
+  height: 25vh;
+  text-align: center;
+  
+  color: #fcfcfc;
+}
+
+.timer {
+  font-size: 2.8em;
+  border-bottom: 2px #af2b2b;
+  
+}
+
+
+.carousel-inner{
+  position: center;
+  width: 100%;
+  height: 500px;
+  overflow: hidden;
+}
+
+.carousel-item{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 1;
+  transition: opacity 1s;
+  
+}
+
+
