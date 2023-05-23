@@ -1,0 +1,15 @@
+C:\Users\schne\source\repos\Dungeon v2.0 Artem Volikov\Dungeon v2.0 Artem Volikov\obj\Debug\net6.0\Dungeon v2.0 Artem Volikov.csproj.AssemblyReference.cache
+C:\Users\schne\source\repos\Dungeon v2.0 Artem Volikov\Dungeon v2.0 Artem Volikov\obj\Debug\net6.0\Dungeon v2.0 Artem Volikov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schne\source\repos\Dungeon v2.0 Artem Volikov\Dungeon v2.0 Artem Volikov\obj\Debug\net6.0\Dungeon v2.0 Artem Volikov.AssemblyInfoInputs.cache
+C:\Users\schne\source\repos\Dungeon v2.0 Artem Volikov\Dungeon v2.0 Artem Volikov\obj\Debug\net6.0\Dungeon v2.0 Artem Volikov.AssemblyInfo.cs
+C:\Users\schne\source\repos\Dungeon v2.0 Artem Volikov\Dungeon v2.0 Artem Volikov\obj\Debug\net6.0\Dungeon v2.0 Artem Volikov.csproj.CoreCompileInputs.cache
+C:\Users\schne\source\repos\Dungeon v2.0 Artem Volikov\Dungeon v2.0 Artem Volikov\bin\Debug\net6.0\Dungeon v2.0 Artem Volikov.exe
+C:\Users\schne\source\repos\Dungeon v2.0 Artem Volikov\Dungeon v2.0 Artem Volikov\bin\Debug\net6.0\Dungeon v2.0 Artem Volikov.deps.json
+C:\Users\schne\source\repos\Dungeon v2.0 Artem Volikov\Dungeon v2.0 Artem Volikov\bin\Debug\net6.0\Dungeon v2.0 Artem Volikov.runtimeconfig.json
+C:\Users\schne\source\repos\Dungeon v2.0 Artem Volikov\Dungeon v2.0 Artem Volikov\bin\Debug\net6.0\Dungeon v2.0 Artem Volikov.dll
+C:\Users\schne\source\repos\Dungeon v2.0 Artem Volikov\Dungeon v2.0 Artem Volikov\bin\Debug\net6.0\Dungeon v2.0 Artem Volikov.pdb
+C:\Users\schne\source\repos\Dungeon v2.0 Artem Volikov\Dungeon v2.0 Artem Volikov\obj\Debug\net6.0\Dungeon v2.0 Artem Volikov.dll
+C:\Users\schne\source\repos\Dungeon v2.0 Artem Volikov\Dungeon v2.0 Artem Volikov\obj\Debug\net6.0\refint\Dungeon v2.0 Artem Volikov.dll
+C:\Users\schne\source\repos\Dungeon v2.0 Artem Volikov\Dungeon v2.0 Artem Volikov\obj\Debug\net6.0\Dungeon v2.0 Artem Volikov.pdb
+C:\Users\schne\source\repos\Dungeon v2.0 Artem Volikov\Dungeon v2.0 Artem Volikov\obj\Debug\net6.0\Dungeon v2.0 Artem Volikov.genruntimeconfig.cache
+C:\Users\schne\source\repos\Dungeon v2.0 Artem Volikov\Dungeon v2.0 Artem Volikov\obj\Debug\net6.0\ref\Dungeon v2.0 Artem Volikov.dll
